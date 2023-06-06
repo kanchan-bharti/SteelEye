@@ -1,4 +1,5 @@
-# Steel Eye - Data Engineering Internship
+# SteelEye
+Assignment submission for Data Engineering internship
 
 **Submission of KANCHAN BHARTI**
 
